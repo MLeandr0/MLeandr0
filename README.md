@@ -1,9 +1,13 @@
-### Welcome to another piece of internet, my name is Matheus Leandro. :speech_balloon:
+# Welcome to another piece of internet, my name is Matheus Leandro. :speech_balloon:
 
-About me:
+### -About me:
 
 I'm a begginer in this area of study, but I'm trying to improve as time pass by. So for now there is not much to see here yet, but I can still tell you about some of the programming languages I'm trying to improve or learn.
 
+### -Programing languages that I already saw:
+
+
+### -Programing languages that I'm seeing:
 
 <!--
 **MLeandr0/MLeandr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
