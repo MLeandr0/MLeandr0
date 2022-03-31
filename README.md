@@ -7,8 +7,8 @@ I'm a begginer in this area of study, but I'm trying to improve as time pass by.
 ### -Programing languages that I already saw:
 
 <div>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
- </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />        
+</div>
 
 
 ### -Programing languages that I'm seeing:
