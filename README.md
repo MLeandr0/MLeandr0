@@ -1,6 +1,8 @@
 ### Welcome to another piece of internet, my name is Matheus Leandro. :speech_balloon:
 
-About me
+About me:
+
+I'm a begginer in this area of study, but I'm trying to improve as time pass by. So for now there is not much to see here yet, but I can still tell you about some of the programming languages I'm trying to improve or learn.
 
 
 <!--
