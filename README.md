@@ -1,5 +1,9 @@
 ### Welcome to another piece of internet, my name is Matheus Leandro. :speech_balloon:
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiMLeandr0anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **MLeandr0/MLeandr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
