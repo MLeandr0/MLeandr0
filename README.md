@@ -7,7 +7,7 @@ I'm a begginer in this area of study, but I'm trying to improve as time pass by.
 ### -Programing languages that I already saw:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />        
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="50" height="50"/>        
 </div>
 
 
