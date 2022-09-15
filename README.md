@@ -16,7 +16,7 @@ I'm a begginer in this area of study, but I'm trying to improve as time pass by.
 ### -Framework that I plan to learn:
 
 <div>
-  [](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>)
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>)-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
           
 </div>
