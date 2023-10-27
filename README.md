@@ -24,3 +24,6 @@ I'm 21 years old and a student of Software Engineering. Right now I'm focusing o
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leandro-ab6982191/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusleandro33@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)]([https://www.example.com/your-resume.pdf](https://resume.io/r/lRMDIL8RS)https://resume.io/r/lRMDIL8RS)
+
+
