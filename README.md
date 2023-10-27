@@ -26,7 +26,7 @@ I'm 21 years old and a student of Software Engineering. Right now I'm focusing o
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusleandro33@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge)](https://resume.io/r/lRMDIL8RS)
 
-### More
+### Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MLeandr0&show_icons=true&theme=tokyonight)
 
