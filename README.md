@@ -1,9 +1,10 @@
 # Welcome to my profile. :speech_balloon:
 
-### About me:
-I'm 21 years old and a student of Software Engineering. Right now I'm focusing on improving myself, while exploring my curiosity and creativity, and always open to new challenges in some projects. Feel free to contact me! Unfortunately, for now, there is not much to see here yet, but I can still tell you about some of the programming languages I'm trying to improve or learn:
+### About me
 
-### Experienced:
+I'm 21 years old and a student of Software Engineering. Right now I'm focusing on improving myself, while exploring my curiosity and creativity, and always open to new challenges in some projects. Feel free to contact me! Unfortunately, for now, there is not much to see here yet, but I can still tell you about some of the programming languages I'm trying to improve or learn.
+
+### Experienced
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -13,10 +14,13 @@ I'm 21 years old and a student of Software Engineering. Right now I'm focusing o
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 
-### Framework that I plan to learn:
+### Skills I'm Developing
 
-<div>
-  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>)-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-          
-</div>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Socials
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leandro-ab6982191/)
+
