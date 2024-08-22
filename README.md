@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm 21 years old and a student of Software Engineering. Right now I'm focusing on improving myself, while exploring my curiosity and creativity, and always open to new challenges in some projects. Feel free to contact me! Unfortunately, for now, there is not much to see here yet, but I can still tell you about some of the programming languages I'm trying to improve or learn.
+I'm 22 years old and a student of Software Engineering. Right now I'm focusing on improving myself, while exploring my curiosity and creativity, and always open to new challenges in some projects. Feel free to contact me! Unfortunately, for now, there is not much to see here yet, but I can still tell you about some of the programming languages I'm trying to improve or learn.
 
 ### Experienced
 
