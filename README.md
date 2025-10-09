@@ -26,7 +26,7 @@ Right now, I'm focusing on improving myself, while exploring my curiosity and cr
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-leandro-melo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusleandro33@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge)](https://resume.io/r/lRMDIL8RS)
+<!-- [![Resume](https://img.shields.io/badge/Resume-blue?style=for-the-badge)](https://resume.io/r/lRMDIL8RS) -->
 
 ### Activity
 
