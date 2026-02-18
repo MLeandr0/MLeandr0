@@ -1,6 +1,6 @@
 # Welcome to my profile. :speech_balloon:
 
-Right now, I'm focusing on improving myself, while exploring my curiosity and creativity, and always open to new challenges and new projects. Feel free to contact me! Unfortunately, for now, there is not much to see here yet, but I can still tell you about some of the programming languages I'm trying to improve or learn.
+Hello, I'm Leandro. I hold a degree in Software Engineering and am currently pursuing a Master's degree in Computer Science at the Federal University of Ceará (UFC). I am always seeking to grow professionally through new challenges, projects, and continuous learning. Feel free to connect!
 
 ---
 
